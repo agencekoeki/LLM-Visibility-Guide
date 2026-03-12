@@ -12,7 +12,7 @@ Tu publies du contenu. Tu es présent en ligne. Mais quand quelqu'un demande à 
 C'est pas de la malchance. C'est **10 erreurs précises** — et chacune a une correction concrète.
 
 Ce repo est la version open-source et maintenue de mon guide sur la **visibilité dans les LLM**.  
-Le PDF complet (16 pages, exemples avant/après, leviers actionnables) est disponible sur [sebastiengrillot.fr](https://sebastiengrillot.fr).
+Le PDF complet (16 pages, exemples avant/après, leviers actionnables) est disponible sur [sebastiengrillot.com](https://sebastiengrillot.com).
 
 ---
 
@@ -251,7 +251,7 @@ Les crawleurs des IA — GPTBot (OpenAI), ClaudeBot (Anthropic), PerplexityBot �
 
 ## Ressources complémentaires
 
-- 📄 **Guide PDF complet** (16 pages, exemples avant/après) : [sebastiengrillot.fr](https://sebastiengrillot.fr)
+- 📄 **Guide PDF complet** (16 pages, exemples avant/après) : [sebastiengrillot.com](https://sebastiengrillot.com)
 - 🔬 **Étude académique de référence** : [GEO: Generative Engine Optimization (Aggarwal et al., 2023)](https://arxiv.org/abs/2311.09735)
 - 🛠️ **Tester son Schema FAQ** : [Rich Results Test — Google](https://search.google.com/test/rich-results)
 - 📊 **Vérifier les crawleurs autorisés** : Ajouter `/robots.txt` à son URL et vérifier GPTBot, ClaudeBot
@@ -263,8 +263,8 @@ Les crawleurs des IA — GPTBot (OpenAI), ClaudeBot (Anthropic), PerplexityBot �
 **Sébastien Grillot** est expert SEO & IA depuis 17 ans, fondateur de [Kōeki Agency](https://koeki.fr).  
 Il forme des professionnels et des entreprises au GEO — la visibilité dans les moteurs IA.
 
-- 🌐 [sebastiengrillot.fr](https://sebastiengrillot.fr)
-- 💼 [LinkedIn](https://linkedin.com/in/sebastiengrillot)
+- 🌐 [sebastiengrillot.com](https://sebastiengrillot.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/sebastiengrillot](https://www.linkedin.com/in/consultant-seo-ia-automatisation/))
 - 🐱 "Fais miauler ChatGPT"
 
 ---
@@ -288,7 +288,7 @@ You publish content. You're active online. But when someone asks Claude, ChatGPT
 That's not bad luck. It's **10 specific mistakes** — each with a concrete fix.
 
 This repo is the open-source, maintained version of my guide on **LLM visibility**.  
-The full PDF (16 pages, before/after examples, actionable levers) is available at [sebastiengrillot.fr](https://sebastiengrillot.fr).
+The full PDF (16 pages, before/after examples, actionable levers) is available at [sebastiengrillot.com](https://sebastiengrillot.com).
 
 ---
 
@@ -523,7 +523,7 @@ AI crawlers — GPTBot (OpenAI), ClaudeBot (Anthropic), PerplexityBot — work l
 
 ## Additional Resources
 
-- 📄 **Full PDF guide** (16 pages, before/after examples): [sebastiengrillot.fr](https://sebastiengrillot.fr)
+- 📄 **Full PDF guide** (16 pages, before/after examples): [sebastiengrillot.com](https://sebastiengrillot.com)
 - 🔬 **Key academic reference**: [GEO: Generative Engine Optimization (Aggarwal et al., 2023)](https://arxiv.org/abs/2311.09735)
 - 🛠️ **Test your Schema FAQ**: [Rich Results Test — Google](https://search.google.com/test/rich-results)
 - 📊 **Check allowed crawlers**: Add `/robots.txt` to your URL and verify GPTBot, ClaudeBot
@@ -535,8 +535,8 @@ AI crawlers — GPTBot (OpenAI), ClaudeBot (Anthropic), PerplexityBot — work l
 **Sébastien Grillot** is a SEO & AI expert with 17 years of experience, founder of [Kōeki Agency](https://koeki.fr).  
 He trains professionals and companies in GEO — visibility in AI-powered search engines.
 
-- 🌐 [sebastiengrillot.fr](https://sebastiengrillot.fr)
-- 💼 [LinkedIn](https://linkedin.com/in/sebastiengrillot)
+- 🌐 [sebastiengrillot.com](https://sebastiengrillot.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/sebastiengrillot](https://www.linkedin.com/in/consultant-seo-ia-automatisation/))
 - 🐱 "Make ChatGPT purr"
 
 ---
