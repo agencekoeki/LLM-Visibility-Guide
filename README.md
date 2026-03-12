@@ -254,6 +254,7 @@ Les crawleurs des IA — GPTBot (OpenAI), ClaudeBot (Anthropic), PerplexityBot �
 - 📄 **Guide PDF complet** (16 pages, exemples avant/après) : [sebastiengrillot.com](https://sebastiengrillot.com)
 - 🔬 **Étude académique de référence** : [GEO: Generative Engine Optimization (Aggarwal et al., 2023)](https://arxiv.org/abs/2311.09735)
 - 🛠️ **Tester son Schema FAQ** : [Rich Results Test — Google](https://search.google.com/test/rich-results)
+- 📊 **Version SlideShare** : [Voir le guide sur SlideShare](https://fr.slideshare.net/slideshow/les-10-erreurs-qui-te-rendent-invisible-pour-claude-chatgpt-gemini-et-perplexity-guide-geo/286470427)
 - 📊 **Vérifier les crawleurs autorisés** : Ajouter `/robots.txt` à son URL et vérifier GPTBot, ClaudeBot
 
 ---
@@ -526,6 +527,7 @@ AI crawlers — GPTBot (OpenAI), ClaudeBot (Anthropic), PerplexityBot — work l
 - 📄 **Full PDF guide** (16 pages, before/after examples): [sebastiengrillot.com](https://sebastiengrillot.com)
 - 🔬 **Key academic reference**: [GEO: Generative Engine Optimization (Aggarwal et al., 2023)](https://arxiv.org/abs/2311.09735)
 - 🛠️ **Test your Schema FAQ**: [Rich Results Test — Google](https://search.google.com/test/rich-results)
+- 🔬 **Key academic reference**: [GEO: Generative Engine Optimization (Aggarwal et al., 2023)](https://arxiv.org/abs/2311.09735)
 - 📊 **Check allowed crawlers**: Add `/robots.txt` to your URL and verify GPTBot, ClaudeBot
 
 ---
